@@ -1,0 +1,8 @@
+{
+  "easy": {
+    "priest": { "dmg": 5, "hlt": 5, "blts": 10, "rld_time_ms": 2500, "vel": 2 },
+    "angel": { "dmg": 10, "hlt": 5, "blts": 15, "rld_time_ms": 1500, "vel": 4 }
+  },
+  "medium": {},
+  "hard": {}
+}

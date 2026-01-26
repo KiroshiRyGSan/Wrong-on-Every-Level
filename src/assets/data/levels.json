@@ -1,0 +1,8 @@
+{
+  "1" : {
+    "name": "Laboratorio Iniziale",
+    "tmx_file": "level1.tmx",
+    "spawn_point": [100, 550],
+    "bg_music": null
+  }
+}

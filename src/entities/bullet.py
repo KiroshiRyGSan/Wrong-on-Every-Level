@@ -1,8 +1,9 @@
 import pygame
 import math
 from src.core.h_assets_loader import AssetsLoader
-from src.core.settings import SCREEN_WIDTH, SCREEN_HEIGHT
-from typing import List, Tuple, Dict
+from src.config.settings import SCREEN_WIDTH, SCREEN_HEIGHT
+from typing import List, Tuple
+
 
 class Bullet(pygame.sprite.Sprite):
     def __init__(self, start_pos, target: Tuple[int, int], difficulty: str, character: str):

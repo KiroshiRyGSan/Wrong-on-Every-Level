@@ -1,5 +1,5 @@
 import pygame
-from src.core.settings import FONT_INTERFACE, FONT_SIZE
+from src.config.settings import FONT_INTERFACE, FONT_SIZE
 
 
 class Hud:
